@@ -54,9 +54,12 @@ ul li a {
 }
 ul li a:hover {
   background-color: #ffffff55;
+  margin:6px 0;
 }
 ul li a:focus {
   background-color: rgb(16, 16, 4);
+  margin:6px 0;
+  
 }
 ul .logout a {
   background-color: #a00;
